@@ -1,6 +1,9 @@
+![my picture](2.png)
 ### Hi there 👋..
-I am curenntly reading for my bachelors in Software Engineering.
-
+####I am curenntly reading for my bachelors in Software Engineering. 
+- 🤔 I’m currenlty looking for an internship..
+- 🌱 I’m currently learning React.js...
+- 📫 How to reach me: drop me a mail on hasansi1814@gmail.com
 <!--
 **hasansin/hasansin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
