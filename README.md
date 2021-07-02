@@ -1,5 +1,4 @@
 ![2](https://user-images.githubusercontent.com/63632399/124312301-b1cf7680-db8c-11eb-94cf-8a86bf68c25f.png)
-![my picture](2.png)
 ### Hi there 👋..
 ####I am curenntly reading for my bachelors in Software Engineering. 
 - 🤔 I’m currenlty looking for an internship..
