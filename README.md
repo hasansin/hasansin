@@ -4,6 +4,8 @@
 - 🤔 looking for an internship..
 - 🌱 currently learning React.js...
 - 📫 How to reach me: drop me a mail on hasansi1814@gmail.com
+
+https://img.shields.io/badge/Gmail-hasansi1814%40gmail.com-red
 <!--
 **hasansin/hasansin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
