@@ -1,7 +1,6 @@
 ![2](https://user-images.githubusercontent.com/63632399/124312301-b1cf7680-db8c-11eb-94cf-8a86bf68c25f.png)
 ### Hi there 👋..
 ### I am currently reading for my Bachelors in Software Engineering. 
-- 🤔 looking for an internship..
 - 🌱 currently learning React.js...
 - 📫 How to reach me: drop me a mail on hasansi1814@gmail.com
 
