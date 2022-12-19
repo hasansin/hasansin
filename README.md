@@ -2,7 +2,7 @@
 ### Hi there 👋..
 ### I am currently reading for my Bachelors in Software Engineering. 
 - 🌱 currently learning React.js & typescript...
-- 📫 How to reach me: drop me a mail on hasansi1814@gmail.com
+- 📫 How to reach me: drop me a mail on nandunihasansi.me@gmail.com
 
 <!--
 **hasansin/hasansin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
