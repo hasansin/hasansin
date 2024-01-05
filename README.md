@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Associate Software Engineer
 ---------------------------
 
-I am an associate software with 1+ year experience. Software Engineering graduate from Sri Lankan Institute of Information Technology. Interested In learning new programming languages & technologies while expanding my knowledge .
+I've been a software associate for a year, and I graduated in Software Engineering from the Sri Lankan Institute of Information Technology. I'm keen on learning new programming languages and technologies to grow my skills.
 
 * 🌍  I'm based in Kalutara, Sri Lanka
 * ✉️  You can contact me at [nandunihasansi.me@gmail.com](mailto:nandunihasansi.me@gmail.com)
