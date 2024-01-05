@@ -3,8 +3,7 @@
 ### I am currently reading for my Bachelors in Software Engineering. 
 - 🌱 currently learning React.js & typescript...
 - 📫 How to reach me:
-- [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://shields.io/](https://www.linkedin.com/in/nanduni-weerasinghe-883718192))
-- [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://shields.io/](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfprrTWNQKSgXjbjmrjtjvCcHPMHSqRMcJxcXcCNwVpNSrxPSZGfrxdrpSTpZsLJwNrGDq))
+- [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://shields.io/](https://www.linkedin.com/in/nanduni-weerasinghe-883718192)) [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://shields.io/](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfprrTWNQKSgXjbjmrjtjvCcHPMHSqRMcJxcXcCNwVpNSrxPSZGfrxdrpSTpZsLJwNrGDq))
         
 <!--
 **hasansin/hasansin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
