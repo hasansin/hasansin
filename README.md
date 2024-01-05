@@ -8,7 +8,7 @@ I've been a software associate for a year, and I graduated in Software Engineeri
 
 * 🌍  I'm based in Kalutara, Sri Lanka
 * ✉️  You can contact me at [nandunihasansi.me@gmail.com](mailto:nandunihasansi.me@gmail.com)
-* 🧠  I'm learning Typescript and React.js
+* 🧠  I'm learning Angular,Typescript and React.js
 
 
 #### Skills & Learnings
