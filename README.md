@@ -2,8 +2,8 @@
 ### Hi there 👋..
 ### I am currently reading for my Bachelors in Software Engineering. 
 - 🌱 currently learning React.js & typescript...
-- 📫 How to reach me: drop me a mail on nandunihasansi.me@gmail.com
-
+- 📫 How to reach me: 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white         https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <!--
 **hasansin/hasansin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
