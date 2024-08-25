@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naduni Weerasinghe
 ==========================================================================================================================================
 
-Associate Software Engineer
+Software Engineer
 ---------------------------
 
-I've been a software associate for one & half years, and I graduated in Software Engineering from the Sri Lankan Institute of Information Technology. I'm keen on learning new programming languages and technologies to grow my skills. I am currently pursuing a Master's degree in Big Data Analytics at Robert Gordon University.
+I've been a Software Engineer for more than two years, and I graduated in Software Engineering from the Sri Lankan Institute of Information Technology. I'm keen on learning new programming languages and technologies to grow my skills. I am currently pursuing a Master's degree in Big Data Analytics at Robert Gordon University.
 
 * 🌍  I'm based in Kalutara, Sri Lanka
 * ✉️  You can contact me at [nandunihasansi.me@gmail.com](mailto:nandunihasansi.me@gmail.com)
