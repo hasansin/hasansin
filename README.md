@@ -8,7 +8,7 @@ I've been a Software Engineer for more than two years, and I graduated in Softwa
 
 * 🌍  I'm based in Kalutara, Sri Lanka
 * ✉️  You can contact me at [nandunihasansi.me@gmail.com](mailto:nandunihasansi.me@gmail.com)
-* 🧠  I'm learning Angular,Typescript and React.js
+* 🧠  I'm learning Angular, Typescript, Python, Node and React.js
 
 
 #### Skills & Learnings
