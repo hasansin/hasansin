@@ -7,8 +7,8 @@ Software Engineer
 I've been a Software Engineer for more than two years, and I graduated in Software Engineering from the Sri Lankan Institute of Information Technology. I'm keen on learning new programming languages and technologies to grow my skills. I am currently pursuing a Master's degree in Big Data Analytics at Robert Gordon University.
 
 * 🌍  I'm based in Kalutara, Sri Lanka
-* ✉️  You can contact me at [nandunihasansi.me@gmail.com](mailto:nandunihasansi.me@gmail.com)
-* 🧠  I'm learning Angular, Typescript, Python, Node and React.js
+* ✉️  You can contact me at [dnhweerasinghe.me@gmail.com](mailto:dnhweerasinghe@gmail.com)
+* 🧠  I'm learning Angular, Python, Pyspark, ETL
 
 
 #### Skills & Learnings
