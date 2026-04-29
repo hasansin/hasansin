@@ -26,25 +26,18 @@ I’m a Software Engineer with 2+ years of experience building web applications 
 </p>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/hasansin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="32" height="32"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/nanduni-weerasinghe-883718192/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://hasansi-5.medium.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="32" height="32"/>
+    <img src="https://skillicons.dev/icons?i=medium" height="40"/>
   </a>
 </p>
 
 ---
-
-## ⚡ Optional Improvements
-
-- 📊 Add GitHub stats  
-- 🚀 Showcase pinned projects  
-- 🧩 Highlight featured work  
