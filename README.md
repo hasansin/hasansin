@@ -28,18 +28,8 @@ I’m a Software Engineer with 2+ years of experience building web applications 
 ---
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/hasansin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-    <a href="https://hasansi-5.medium.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nanduni-weerasinghe-883718192/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-
-</p>
+<p align="left"> <a href="https://www.github.com/hasansin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nanduni-weerasinghe-883718192/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://hasansi-5.medium.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+        
 
 
 ---
