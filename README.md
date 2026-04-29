@@ -32,11 +32,11 @@ I’m a Software Engineer with 2+ years of experience building web applications 
   <a href="https://github.com/hasansin" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/nanduni-weerasinghe-883718192/" target="_blank">
+  <a href="https://www.linkedin.com/in/nanduni-weerasinghe/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://hasansi-5.medium.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="40"/>
   </a>
 </p>
 
