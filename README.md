@@ -30,13 +30,13 @@ I’m a Software Engineer with 2+ years of experience building web applications 
 
 <p align="left">
   <a href="https://github.com/hasansin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
     <a href="https://hasansi-5.medium.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/nanduni-weerasinghe-883718192/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 
 </p>
