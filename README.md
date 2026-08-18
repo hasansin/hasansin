@@ -5,7 +5,7 @@
 I’m a Software Engineer with 2+ years of experience building web applications and exploring data-driven solutions. I enjoy learning new technologies and applying them to real-world problems.
 
 🎓 BSc in Software Engineering  
-🎓 MSc in Big Data Analytics (ongoing)
+🎓 MSc in Big Data Analytics
 
 ---
 
